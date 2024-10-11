@@ -116,11 +116,14 @@ Each team member will be involved in various phases such as data collection, pre
    ```bash
    streamlit run app.py
 
+---
+
 ## 9. ✨ Roles and Responsibilities
 
 - Enhancing the model accuracy with more advanced algorithms like XGBoost or LightGBM.
 - Adding more vehicle attributes like fuel type, transmission, and location to improve predictions.
 
+---
 
 ### Additional Notes:
 1. You can replace `https://github.com/Hansamalee0630/DevSpark-Car.git` with the actual repository URL.
@@ -128,3 +131,5 @@ Each team member will be involved in various phases such as data collection, pre
 3. Ensure the `app.py` file is present and correctly sets up the Streamlit application.
 
 You can commit this `README.md` file to your repository and use it as the project overview!
+
+---
