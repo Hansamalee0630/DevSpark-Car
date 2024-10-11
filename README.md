@@ -45,7 +45,8 @@ With advancements in technology, the automotive industry has experienced a surge
   
   _*Below is an image of the Streamlit app interface used to interact with the model and explore results visually.*_
 
-<img src="screencapture-vehicle-price-predictor-streamlit-app-2024-09-29-00_49_20.png" alt="Streamlit App Interface">
+<img src="screencapture-vehicle-price-predictor-streamlit-app-2024-09-29-00_49_20.png" alt="Streamlit App Interface"><br>
+
 ---
 
 ## 3. 📋 Project Plan and Timeline
