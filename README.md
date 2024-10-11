@@ -75,8 +75,6 @@ Each team member will be involved in various phases such as data collection, pre
 ## 6. 📦 **Deliverables**
 
 - ✅ A predictive model integrated with an interactive client application.
-- 📅 Final presentation and live demo.
-- 📝 Complete project report.
 
 ---
 
