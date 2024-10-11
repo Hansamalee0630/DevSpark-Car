@@ -97,7 +97,7 @@ Each team member will be involved in various phases such as data collection, pre
 
 ---
 
-## 🚀 How to Run the Project
+## 8. 🚀 How to Run the Project
 
 1. **Clone the repository:**
    ```bash
