@@ -122,7 +122,7 @@ Each team member will be involved in various phases such as data collection, pre
 
 
 ### Additional Notes:
-1. You can replace `https://github.com/your-username/car-price-predictor.git` with the actual repository URL.
+1. You can replace `https://github.com/Hansamalee0630/DevSpark-Car.git` with the actual repository URL.
 2. Make sure to add a `requirements.txt` file listing all the necessary libraries for the project (e.g., `pandas`, `scikit-learn`, `streamlit`).
 3. Ensure the `app.py` file is present and correctly sets up the Streamlit application.
 
