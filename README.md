@@ -118,7 +118,7 @@ Each team member will be involved in various phases such as data collection, pre
 
 ---
 
-## 9. ✨ Roles and Responsibilities
+## 9. ✨ Future development
 
 - Enhancing the model accuracy with more advanced algorithms like XGBoost or LightGBM.
 - Adding more vehicle attributes like fuel type, transmission, and location to improve predictions.
