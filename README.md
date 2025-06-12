@@ -93,7 +93,7 @@ Each team member will be involved in various phases such as data collection, pre
   - **Scikit-learn**: For model building and evaluation
   - **Matplotlib & Seaborn**: For data visualization
   - **Streamlit**: For creating the interactive web app
-- **Deployment Environment:** Streamlit Cloud or similar
+- **Deployment Environment:** Streamlit Cloud
 - **Version Control:** GitHub for collaborative code management
 
 ---
